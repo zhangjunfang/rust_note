@@ -1,0 +1,6 @@
+[package]
+name = "rust_map_01"
+version = "0.1.0"
+authors = ["zhangjunfang <zhangjunfang0505@163.com>"]
+
+[dependencies]

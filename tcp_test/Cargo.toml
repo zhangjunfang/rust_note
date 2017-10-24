@@ -1,0 +1,10 @@
+[package]
+name = "tcp_test"
+version = "0.1.0"
+authors = ["zhangboyu <zhangjunfang0505@163.com>"]
+
+[dependencies]
+time = "0.1"
+hyper = "0.11.2"
+threading = "0.1.2"
+redis = "0.8.0"

@@ -1,0 +1,10 @@
+[package]
+name = "rust_mysql"
+version = "0.1.0"
+authors = ["zhangboyu <zhangjunfang0505@163.com>"]
+
+[dependencies]
+diesel = { version = "0.16.0", features = ["mysql"] }
+diesel_codegen = { version = "0.16.0", features = ["mysql"] }
+dotenv = "0.9.0"
+mysql = "12.0.3"

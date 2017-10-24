@@ -1,0 +1,10 @@
+[package]
+name = "rust_web"
+version = "0.1.0"
+authors = ["zhangboyu <zhangjunfang0505@163.com>"]
+
+[dependencies]
+time="*"
+[dependencies.iron]
+version = "*"
+
